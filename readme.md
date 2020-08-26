@@ -1,20 +1,20 @@
 
-### 이 강의는 
+## 이 강의는 
 인프런 - '따라하며 배우는 노드 리액트 기본' 강의 실습자료입니다.
-https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8
+https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8  
 이 강의를 통해서 리액트와 노드를 어떻게 사용하는지 기본적인 내용들을 배울 수 있습니다.
 
-### 이런 걸 배울 수 있어요 
-✅ 리액트
-✅ 노드
-✅ 리덕스
-✅ Express JS
-✅ 몽고 DB
+## 이런 걸 배울 수 있어요 
+✅ 리액트  
+✅ 노드  
+✅ 리덕스  
+✅ Express JS  
+✅ 몽고 DB  
 
 ---
 
-### 교육과정
-* 섹션 0. Node JS
+## 교육과정
+### 섹션 0. Node JS
 - [ ] 노드 리액트 기초 강의 #1 소개
 - [ ] 노드 리액트 기초 강의 #2 NODE JS 와 EXPRESS JS 다운로드 하기
 - [ ] 노드 리액트 기초 강의 #3 몽고 DB 연결
@@ -30,7 +30,7 @@ https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%E
 - [ ] 노드 리액트 기초 강의 #13 Auth 기능 만들기
 - [ ] 노드 리액트 기초 강의 #14 로그아웃 기능
 
-* 섹션 1. React JS
+### 섹션 1. React JS
 - [ ] 노드 리액트 기초 강의 #15 리액트란 ?
 - [ ] 노드 리액트 기초 강의 #16 Create-React-App
 - [ ] 노드 리액트 기초 강의 #17 npm npx
@@ -52,7 +52,7 @@ https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%E
 - [ ] 노드 리액트 기초 강의 #33 인증 체크 (1)
 - [ ] 노드 리액트 기초 강의 #34 인증 체크 (2) 강의 마무리.
 
-* 섹션 2. Diagram 자료
+### 섹션 2. Diagram 자료
 - [ ] Diagram HTML 자료
 - [ ] Diagram XML 자료
 
