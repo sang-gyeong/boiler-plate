@@ -1,7 +1,6 @@
 
 ## 이 강의는 
-인프런 - '따라하며 배우는 노드 리액트 기본' 강의 실습자료입니다.
-https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8  
+인프런 - '따라하며 배우는 노드 리액트 기본' 강의 실습자료입니다. [강의 링크](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8)    
 이 강의를 통해서 리액트와 노드를 어떻게 사용하는지 기본적인 내용들을 배울 수 있습니다.
 
 ## 이런 걸 배울 수 있어요 
@@ -31,16 +30,16 @@ https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%E
 - [x] 노드 리액트 기초 강의 #14 로그아웃 기능
 
 ### 섹션 1. React JS
-- [ ] 노드 리액트 기초 강의 #15 리액트란 ?
-- [ ] 노드 리액트 기초 강의 #16 Create-React-App
-- [ ] 노드 리액트 기초 강의 #17 npm npx
-- [ ] 노드 리액트 기초 강의 #18 구조 설명
-- [ ] 노드 리액트 기초 강의 #19 CRA to Our Boilerplate
-- [ ] 노드 리액트 기초 강의 #20 React Router Dom
-- [ ] 노드 리액트 기초 강의 #21 데이터 Flow & Axios
-- [ ] 노드 리액트 기초 강의 #22 CORS 이슈, Proxy 설정
-- [ ] 노드 리액트 기초 강의 #23 Proxy Server ?
-- [ ] 노드 리액트 기초 강의 #24 Concurrently
+- [x] 노드 리액트 기초 강의 #15 리액트란 ?
+- [x] 노드 리액트 기초 강의 #16 Create-React-App
+- [x] 노드 리액트 기초 강의 #17 npm npx
+- [x] 노드 리액트 기초 강의 #18 구조 설명
+- [x] 노드 리액트 기초 강의 #19 CRA to Our Boilerplate
+- [x] 노드 리액트 기초 강의 #20 React Router Dom
+- [x] 노드 리액트 기초 강의 #21 데이터 Flow & Axios
+- [x] 노드 리액트 기초 강의 #22 CORS 이슈, Proxy 설정
+- [x] 노드 리액트 기초 강의 #23 Proxy Server ?
+- [x] 노드 리액트 기초 강의 #24 Concurrently
 - [ ] 노드 리액트 기초 강의 #25 Antd CSS Framwork
 - [ ] 노드 리액트 기초 강의 #26 Redux 기초
 - [ ] 노드 리액트 기초 강의 #27 Redux UP !!!!!
